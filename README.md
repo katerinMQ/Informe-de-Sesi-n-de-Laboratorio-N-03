@@ -1,1 +1,1 @@
-# Informe-Laboratorio-N-02-Inteligencia-de-Negocios
+# Informe de Sesión de Laboratorio N° 03
